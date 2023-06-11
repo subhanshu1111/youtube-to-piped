@@ -1,7 +1,7 @@
 # YouTube URL Redirection
 
 This userscript redirects YouTube links to piped.kavin.rocks.
-
+![working of this script](output8.gif)
 ## Installation
 
 1. Install the TamperMonkey extension for your web browser.
