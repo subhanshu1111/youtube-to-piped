@@ -1,6 +1,6 @@
 # YouTube URL Redirection
 
-This userscript redirects YouTube links to piped.kavin.rocks.
+This userscript redirects YouTube links to piped.kavin.rocks. IIF written in javascript which redirects very quick.
 ![working of this script](output8.gif)
 ## Installation
 
